@@ -138,10 +138,3 @@ footer {
   padding: 10px 0;
   margin-top: 40px;
 }
-.mini-revue{ padding:6px 20px 0 20px; }
-.mini-revue__img{ display:block; height:46px; width:auto; }
-.mini-revue__link{
-  display:inline-block; margin-top:6px; font-weight:bold;
-  color:#dc3545; text-decoration:none;
-}
-.mini-revue__link:hover{ text-decoration:underline; }
